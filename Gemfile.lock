@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/benbalter/jekyll-default-layout
+  revision: 340343a2ab7b1b18a45ff7c26f2937db5d28f7b5
+  specs:
+    jekyll-default-layout (0.1.5)
+      jekyll (>= 3.0, < 5.0)
+
+GIT
   remote: https://github.com/hydecorp/jekyll-seo-tag
   revision: 6135021410981d2d76878568e9c21cf363882bfe
   specs:
@@ -121,17 +128,4 @@ DEPENDENCIES
   kramdown-parser-gfm
 
 BUNDLED WITH
-   2.2.24
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+   2.3.6
