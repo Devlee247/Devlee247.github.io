@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: about
 title: Devlee247
 description: >
   24시간 하루 종일 개발하기
@@ -9,3 +9,5 @@ no_excerpt: false
 hide_image: false
 cover: true
 ---
+
+# 안녕하세요, 이인서입니다.
