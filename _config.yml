@@ -82,7 +82,7 @@ paginate_path:         /:num/
 
 
 # favicon
-favicon:               /assets/icons/favicon.ico
+favicon:               /assets/favicon.ico
 
 # Theme
 # ---------------------------------------------------------------------------------------
