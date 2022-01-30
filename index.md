@@ -1,8 +1,6 @@
 ---
 layout: about
-title: Devlee247
-description: >
-  24시간 하루 종일 개발하기
+title: About
 last_modified_at: 2018-08-03
 no_link_title: false 
 no_excerpt: false 
