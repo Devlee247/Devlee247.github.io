@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: about
 last_modified_at: 2018-08-03
 no_link_title: false 
 no_excerpt: false 

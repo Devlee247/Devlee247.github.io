@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: about
 title: About
 slug: about
 sitemap: false

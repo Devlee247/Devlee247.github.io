@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://devlee247.com
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -43,6 +43,7 @@ author:
   # Used by `jekyll-feed`:
   name:                Devlee247
   email:               inseo8070@naver.com
+  picture:             /assets/img/me1.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -86,8 +87,9 @@ favicon:               /assets/favicon.ico
 
 # Theme
 # ---------------------------------------------------------------------------------------
-
-# theme: jekyll-theme-hydejack
+# github에서 돌릴려면 theme 주석
+# local에서 돌릴려면 theme 주석 해제
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -95,6 +97,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
+# 배경사진
 accent_image:          /assets/img/empire.jpg
 accent_color:          rgb(79,177,186)
 
