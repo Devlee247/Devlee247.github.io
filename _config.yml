@@ -89,7 +89,7 @@ favicon:               /assets/favicon.ico
 # ---------------------------------------------------------------------------------------
 # github에서 돌릴려면 theme 주석
 # local에서 돌릴려면 theme 주석 해제
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
