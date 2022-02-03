@@ -53,6 +53,8 @@ menu:
     url:               /about/
   - title:             논문
     url:               /papers/
+  - title:             독서
+    url:               /reading/
   - title:             회고
     url:               /retrospect/
   - title:             후기
