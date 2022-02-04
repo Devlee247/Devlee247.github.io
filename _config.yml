@@ -53,12 +53,12 @@ menu:
     url:               /about/
   - title:             논문
     url:               /papers/
-  - title:             독서
-    url:               /reading/
   - title:             회고
     url:               /retrospect/
   - title:             후기
     url:               /review/
+  - title:             독서
+    url:               /book/
   - title:             일상
     url:               /daily/
     
@@ -188,6 +188,16 @@ google_analytics:      UA-218982286-1
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
 
+# Set which comment system to use
+comments:
+  # 'disqus' or 'utterances' are available
+  provider:            utterances
+
+utterances:
+  repo:                "luigihenrick/luigihenrick.github.io"
+  issue-term:          "pathname"
+  label:               "Comments"
+  theme:               "github-light"
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>
