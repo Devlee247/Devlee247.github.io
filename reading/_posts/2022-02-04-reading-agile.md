@@ -14,7 +14,8 @@ comments: true
 <img src="../../assets/img/blog/agile.jfif" alt="agile-book" width="400" style="margin-left: auto; margin-right: auto; display: block;"/>
 <br>
 
-새해에는 의미있고 성장하기 위해 책읽는 습관을 가지려합니다.<br>
+새해에는 의미있고 성장하기 위해 책읽는 습관을 가지려합니다.
+<br><br>
 그러던 중 **네이버 부스트캠프 OT**에서 마스터님께서 추천을 해주셔서 바로 구매후 읽어봤습니다.
 이 책을 통해서 평소에 **학습**과 관련해서 고민하던 부분들과, 어떻게 하면 **성장**할 수 있는지에 대해 배울 수 있었습니다.
 <br>
