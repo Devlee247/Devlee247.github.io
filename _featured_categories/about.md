@@ -10,6 +10,7 @@ sitemap: false
 
 ## Devlee247의 의미
 > *Nothing worth having was ever achieved without effort.*
+{:.lead}
 
 노력 없이 이루어지는 것은 아무것도 없다고 생각합니다.<br><br>
 
