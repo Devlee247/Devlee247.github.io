@@ -58,7 +58,7 @@ menu:
   - title:             후기
     url:               /review/
   - title:             독서
-    url:               /book/
+    url:               /reading/
   - title:             일상
     url:               /daily/
     
@@ -443,3 +443,5 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+future: true
