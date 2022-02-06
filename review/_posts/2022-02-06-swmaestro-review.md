@@ -11,7 +11,7 @@ hide_last_modified: true
 comments: true
 ---
 
-<img src="../../assets/img/blog/swmaestro.jpg" alt="agile-book" width="400" style="margin-left: auto; margin-right: auto; display: block;"/>
+<img src="../../assets/img/blog/swmaestro.webp" alt="swmaestro" width="400" style="margin-left: auto; margin-right: auto; display: block;"/>
 <br>
 
  과학기술정보통신부 및 정보통신기획평가원에서 **SW마에스트로 13기를 모집**한다고 합니다. 여러분들에게 본 프로그램을 추천하고, 제가 연수생으로 활동한 내용을 공유하기 위해 조금 늦었지만 **12기를 합격하게 된 얘기와, 활동 후기**를 작성하려 합니다.
@@ -132,7 +132,7 @@ SQL 문제에 대한 대비는 [프로그래머스의 SQL 고득점 Kit](https:/
 <br><br>
 해커톤에 대한 기억은 정말 생생하게 남는데, **개발자 6명이 모여서 진행하는 해커톤**은 정말 흔치 않기 때문입니다.
 당시 인원 제한으로 인해, 6명이 모두 한자리에서 만나지는 못했지만 4명 + 2명 따로 나눠서 Webex를 켜놓고 소통하며 밤새며 개발한 추억은 아마 평생 가져갈 듯 합니다.<br><br>
-<img src="../../assets/img/blog/swm_hackerton.jpg" alt="agile-book" height="300" style="margin-left: auto; margin-right: auto; display: block;"/>
+<img src="../../assets/img/blog/swm_hackerton.webp" alt="hackerton" height="300" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 
 ## 본과정 (6~11월)
