@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devlee247.com
+Sitemap: https://devlee247.com/sitemap.xml
