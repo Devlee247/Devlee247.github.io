@@ -16,3 +16,10 @@
 .utterances {
   max-width: 100%;
 } 
+
+img + em {
+  display: block;
+  text-align: center;
+  font-size: .9rem;
+  color: lightslategray;
+}
