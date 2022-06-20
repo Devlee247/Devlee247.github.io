@@ -201,6 +201,10 @@ loss2 = F.cross_entropy(pred2, targets)
 loss = loss0 + 0.3 * loss1 + 0.3  * loss2
 ```
 
+코드 전문은 다음 링크에서 확인하실 수 있습니다.
+
+[깃허브](https://github.com/Devlee247/PyTorch-Implementations/blob/master/CNN/GoogLeNet.ipynb)
+
 ### 구현 포인트
 
 - 1x1 convolution
