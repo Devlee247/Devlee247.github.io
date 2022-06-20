@@ -11,7 +11,7 @@ hide_last_modified: true
 comments: true
 ---
 
-# [논문 리뷰 및 구현] GoogLeNet(2014) : 리뷰 및 파이토치(PyTorch) 구현
+# [논문 리뷰 및 구현] GoogLeNet(2014) 리뷰 및 파이토치(PyTorch) 구현
 
 - ILSVRC 2014에서 VGGNet을 제치고 1등을 차지했습니다.
 - 1x1 convolution layer의 사용과 depth를 늘려서 모델의 성능을 향상 시켰습니다. (VGGNet과 유사함)
